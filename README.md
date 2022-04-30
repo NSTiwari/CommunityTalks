@@ -1,4 +1,3 @@
-# CommunityTalks
 Contains a curated list of talks given by me at various seminars, workshops and meet-ups.
 
 - **[Building Computer Vision models using TensorFlow](https://github.com/NSTiwari/CommunityTalks/blob/main/Building%20Computer%20Visions%20models%20using%20TensorFlow.pdf) - AIDL Club, FCRIT [January 23, 2022]**
