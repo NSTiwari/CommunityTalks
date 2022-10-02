@@ -7,3 +7,7 @@ Delivered a session on introductory ML where I talked about the common Supervise
 - **[Advanced Computer Architectures](https://github.com/NSTiwari/CommunityTalks/blob/main/Advanced%20Computer%20Architectures.pdf) - Department of Information Technology, FCRIT [April 06, 2022]**
 
 Talked about the advanced computer architectures, parallel and distributed computing, virtualization and mobile cloud architectures that have driven the evolution of computers over the years.
+
+- **[Building Computer Vision model using TensorFlow: Part 1](https://www.meetup.com/en-AU/tensorflow-user-group-pune/events/288577307/) - TensorFlow User Group Pune [September 25, 2022]**
+
+A talk and hands-on session for TensorFlow developers to build an end-to-end object detection model for custom data. The audience were introduced to Computer Vision and object detection, pre-processing methods for data preparation and labelling tools for data labelling.
