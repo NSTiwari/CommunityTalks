@@ -11,3 +11,7 @@ Talked about the advanced computer architectures, parallel and distributed compu
 - **[Building Computer Vision model using TensorFlow: Part 1](https://www.meetup.com/en-AU/tensorflow-user-group-pune/events/288577307/) - TensorFlow User Group Pune [September 25, 2022]**
 
 A talk and hands-on session for TensorFlow developers to build an end-to-end object detection model for custom data. The audience were introduced to Computer Vision and object detection, pre-processing methods for data preparation and labelling tools for data labelling.
+
+- **[Building Computer Vision model using TensorFlow: Part 2](https://www.meetup.com/tensorflow-user-group-pune/events/288577357/) - TensorFlow User Group Pune [October 02, 2022]**
+
+A continuation of part 1, this session covered detailed aspects for end-to-end training and deployment of an object model detection where the developers gained insights on training a custom model on Google Colab, inspect the TF Lite model architecture and deploy it on an Android application.
