@@ -15,3 +15,7 @@ A talk and hands-on session for TensorFlow developers to build an end-to-end obj
 - **[Building Computer Vision model using TensorFlow: Part 2](https://www.meetup.com/tensorflow-user-group-pune/events/288577357/) - TensorFlow User Group Pune [October 02, 2022]**
 
 A continuation of part 1, this session covered detailed aspects for end-to-end training and deployment of an object model detection where the developers gained insights on training a custom model on Google Colab, inspect the TF Lite model architecture and deploy it on an Android application.
+
+- **[Shifting Gears](https://github.com/NSTiwari/CommunityTalks/blob/main/Shifting%20Gears.pdf) - Department of Information Technology, FCRIT [October 07, 2022]**
+
+'Shifting Gears' was a talk and mentoring session for the students of second-year engineering at Fr. Conceicao Rodrigues Institute of Technology, Vashi, Navi Mumbai. The talk was focused on helping students build their public profile and preparing them to acquaint skills.
