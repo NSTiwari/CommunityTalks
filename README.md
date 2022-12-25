@@ -19,3 +19,7 @@ A continuation of part 1, this session covered detailed aspects for end-to-end t
 - **[Shifting Gears](https://github.com/NSTiwari/CommunityTalks/blob/main/Shifting%20Gears.pdf) - Department of Information Technology, FCRIT [October 07, 2022]**
 
 'Shifting Gears' was a talk and mentoring session for the students of second-year engineering at Fr. Conceicao Rodrigues Institute of Technology, Vashi, Navi Mumbai. The talk was focused on helping students build their public profile and preparing them to acquaint skills.
+
+- **[DevFest 2022 - MLOps for Computer Vision using TensorFlow](https://github.com/NSTiwari/CommunityTalks/blob/main/DevFest%20Chandigarh%202022%20-%20MLOps%20for%20Computer%20Vision%20using%20TensorFlow.pdf) - GDG Chandigarh DevFest 2022 [December 17, 2022]**
+
+A talk on how TensorFlow can be used to build end-to-end Computer Vision applications.
