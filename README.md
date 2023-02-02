@@ -23,3 +23,9 @@ A continuation of part 1, this session covered detailed aspects for end-to-end t
 - **[DevFest 2022 - MLOps for Computer Vision using TensorFlow](https://github.com/NSTiwari/CommunityTalks/blob/main/DevFest%20Chandigarh%202022%20-%20MLOps%20for%20Computer%20Vision%20using%20TensorFlow.pdf) - GDG Chandigarh DevFest 2022 [December 17, 2022]**
 
 A talk on how TensorFlow can be used to build end-to-end Computer Vision applications.
+
+| Talk Name | Resources | Date |
+| --------- | --------- | ---- |
+|Building Computer Vision models using TensorFlow| [Link](https://github.com/NSTiwari/CommunityTalks/blob/main/Building%20Computer%20Visions%20models%20using%20TensorFlow.pdf) | January 23, 2022 |
+|Advanced Computer Architectures| [Link](https://github.com/NSTiwari/CommunityTalks/blob/main/Advanced%20Computer%20Architectures.pdf) |April 06, 2022 |
+
