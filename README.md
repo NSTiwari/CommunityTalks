@@ -6,5 +6,5 @@
 |Building Computer Vision model using TensorFlow: Part 2 (TFUG Pune) | [Link](https://www.meetup.com/tensorflow-user-group-pune/events/288577357/)|October 02, 2022|
 |Shifting Gears | [Link](https://github.com/NSTiwari/CommunityTalks/blob/main/Shifting%20Gears.pdf)|October 07, 2022|
 |GDG DevFest Chandigarh 2022 - MLOps for Computer Vision using TensorFlow | [Link](https://github.com/NSTiwari/CommunityTalks/blob/main/DevFest%20Chandigarh%202022%20-%20MLOps%20for%20Computer%20Vision%20using%20TensorFlow.pdf) | December 17, 2022|
-|E2E Computer Vision models using TensorFlow| [Link](https://github.com/NSTiwari/CommunityTalks/blob/main/AIML%20Meetup%20-%20Google%20Bangalore.pdf) | January 29, 2023|
+|AIML Meetup @ Google Bangalore - E2E Computer Vision models using TensorFlow| [Link](https://github.com/NSTiwari/CommunityTalks/blob/main/AIML%20Meetup%20-%20Google%20Bangalore.pdf) | January 29, 2023|
 
