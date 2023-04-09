@@ -7,4 +7,5 @@
 |Shifting Gears | [Link](https://github.com/NSTiwari/CommunityTalks/blob/main/Shifting%20Gears.pdf)|Oct 07, 2022|
 |GDG DevFest Chandigarh 2022 - MLOps for Computer Vision using TensorFlow | [Link](https://github.com/NSTiwari/CommunityTalks/blob/main/DevFest%20Chandigarh%202022%20-%20MLOps%20for%20Computer%20Vision%20using%20TensorFlow.pdf) | Dec 17, 2022|
 |AIML Meetup @ Google Bangalore - E2E Computer Vision models using TensorFlow| [Link](https://github.com/NSTiwari/CommunityTalks/blob/main/AIML%20Meetup%20-%20Google%20Bangalore.pdf) | Jan 29, 2023|
+|Machine Learning on Google Cloud Platform | [Link](https://github.com/NSTiwari/CommunityTalks/blob/main/Machine%20Learning%20on%20Google%20Cloud%20Platform.pdf)|Mar 24, 2023|
 
